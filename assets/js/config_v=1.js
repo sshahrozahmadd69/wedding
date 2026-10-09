@@ -32,7 +32,7 @@
         'text': "request the pleasure of your company\nat the wedding of their son"
       }, {
         'kind': 'names',
-        'text': "Shahroz Khan\n&\Shanza Aslam"
+        'text': "Shahroz Ahmad\n&\Shanza Aslam"
       }, {
         'kind': "body",
         'text': "daughter of\nMr. & Mrs. Muhammad Aslam"
@@ -71,7 +71,7 @@
       'items': [{
         'label': "Nikaah",
         'day': "Friday",
-        'date': "31 October 2026",
+        'date': "30 October 2026",
         'time': "3:00 PM",
         'venue': "Mehmaan Maizbaan, D-12",
         'address': "Islamabad",
@@ -82,7 +82,7 @@
       }, {
         'label': "Mehndi",
         'day': "Friday",
-        'date': "31 October 2026",
+        'date': "30 October 2026",
         'time': "5:00 PM",
         'venue': "Mehmaan Maizbaan, D-12",
         'address': "Islamabad",
